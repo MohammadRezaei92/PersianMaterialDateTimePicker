@@ -49,7 +49,7 @@
     <color name="famdtp_date_picker_view_animator">@android:color/white</color>
     <color name="famdtp_calendar_selected_date_text">#ffd1d2d4</color>
 
-    <color name="famdtp_button_color">@color/famdtp_accent_color</color>
+    <color name="famdtp_button_color">@color/famdtp_white</color>
     <color name="famdtp_button_selected">#33969696</color>
 
     <!-- TimePicker Dark Theme -->
